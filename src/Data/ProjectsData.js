@@ -2,7 +2,7 @@ const DUMMY_PROJECTS=[
     {
         projectTitle:'PortFolio Website',
         description: 'My portfolio is based on my personal skills and academic background. It features a React app developed with Vite to create a creative professional website. ',
-        sourceLink:'https://github.com/PoojaPanjwani01',
+        sourceLink:'https://github.com/PoojaPanjwani01/myprofile',
         lastUpdated:'July 2024'
     },
 
