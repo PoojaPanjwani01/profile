@@ -2,7 +2,7 @@ const InternshipData = {
     companyName: "VESIT Renaissance Cell",
     position: "Machine Learning Intern",
     startDate: "May 2024",
-    endDate: "Jume 2024",
+    endDate: "June 2024",
     description: [
         "Led the development and refinement of a disease prediction model using Machine Learning algorithms.",
         "Collaborated with a team of four to test and optimize various ML methodologies, achieving higher accuracy.",
